@@ -1,0 +1,19 @@
+
+.ftrStyle
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-style: italic;
+    letter-spacing:0.15em;
+    height:50px;
+    padding: 8px;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+}

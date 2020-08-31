@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.NavStyle
+{
+    background-color:black;
+    height:80px;
+    width:100%;
+    font-size: 17px;
+    font-weight: bold;
+    color:black;
+    padding: 10px;
+}
+.NavStyle ul{
+    display: flex;
+    float:right;
+    
+}
+.NavStyle ul li{
+    list-style: none;
+    text-transform:uppercase;
+    color:black;
+    padding: 10px;
+}
+.clr
+{
+    color:white;
+    font-weight: bold;
+    
+}
