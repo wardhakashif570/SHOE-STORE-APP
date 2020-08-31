@@ -7,7 +7,7 @@ const Slider=()=>
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src= "images/boutique1.jpg" width="100%" height="550px" alt="slider 1"/>
+      src= "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80" width="100%" height="530px" alt="slider 1"/>
   
 
     <Carousel.Caption>
@@ -18,7 +18,7 @@ const Slider=()=>
   <Carousel.Item>
     <img
       className="d-block w-100"
-     src= "images/boutique3.jpg" width="100%" height="550px" alt="slider 2"/>
+     src= "https://images.unsplash.com/photo-1579298245158-33e8f568f7d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=767&q=80" width="100%" height="530px" alt="slider 2"/>
      
   
 
@@ -30,7 +30,7 @@ const Slider=()=>
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src= "images/boutique2.jpg" width="100%" height="550px" alt="slider 3"/>
+      src= "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" width="100%" height="530px" alt="slider 3"/>
      
 
 
